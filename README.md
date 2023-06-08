@@ -1,5 +1,7 @@
 # OnStep_M5StickC_PLUS_SHC
 A big thank you to Anat in the OnStep group for posting this first bit of code that connects the M5StickC PLUS to OnStep's WiFi port.
+https://onstep.groups.io/g/main/message/52115
+
 
 This is an OnStep hand controller that uses off the shelf parts.  
 https://shop.m5stack.com/collections/m5-controllers/products/m5stickc-plus-esp32-pico-mini-iot-development-kit
