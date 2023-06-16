@@ -10,3 +10,7 @@ https://shop.m5stack.com/collections/m5-sensor/products/m5stickc-mini-joyc-hat-s
 Read this documentation on gettin the VS Code Extension and how to upload the code to the 
 https://docs.m5stack.com/en/quick_start/m5stickc_plus/mpy
 
+Update 6-16-23
+I got my hardware and found the easiest way to upload this pythong code is not with VS Code, but the UIFlow editor.
+
+Follow these instruction and whent you configure you hardware select "internet" instead of USB.  THis will allow the UIFLow editor to connecto to your hardware over wifi and upload your code.  The UIFlow is easier just becuase it seems to automatically handle the libraries needed for the Joystick.  I am sure VS Code works just fine you just have to figure out Micropython and how to load the joystick libraries.
